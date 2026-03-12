@@ -26,26 +26,6 @@ The goal is to demonstrate how data science can assist healthcare professionals 
 
 ---
 
-## Project Structure
-
-Oral_Cancer_Prediction/
-│
-├── data/                # Dataset files
-├── notebooks/           # Jupyter notebooks for experimentation
-├── src/                 # Core project scripts
-│   ├── preprocessing.py
-│   ├── train_model.py
-│   └── predict.py
-│
-├── models/              # Saved trained models
-├── results/             # Evaluation results and plots
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-
----
-
 ## Installation
 
 Clone the repository
@@ -53,3 +33,4 @@ Clone the repository
 ```bash
 git clone https://github.com/yourusername/Oral_Cancer_Prediction.git
 cd Oral_Cancer_Prediction
+
